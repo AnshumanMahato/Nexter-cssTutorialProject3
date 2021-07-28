@@ -36,14 +36,14 @@ body {
 }
 
 .features {
-  background-color: #f9f7f6;
+  background-color: #aaa;
 }
 
 .story__pictures {
   background-color: crimson;
 }
 .story__content {
-  background-color: burlywood;
+  background-color: #f9f7f6;
 }
 
 .homes {
