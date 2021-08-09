@@ -332,4 +332,12 @@ body {
   transform: translateY(-3px);
 }
 
+.copyright {
+  font-size: 1.4rem;
+  color: #aaa;
+  margin: 6rem auto 0;
+  text-align: center;
+  width: 70%;
+}
+
 /*# sourceMappingURL=style.css.map */
